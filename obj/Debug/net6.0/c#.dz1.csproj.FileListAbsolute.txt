@@ -1,0 +1,15 @@
+C:\Users\Viktoriya\Desktop\C#.dz\c#.dz1\bin\Debug\net6.0\c#.dz1.exe
+C:\Users\Viktoriya\Desktop\C#.dz\c#.dz1\bin\Debug\net6.0\c#.dz1.deps.json
+C:\Users\Viktoriya\Desktop\C#.dz\c#.dz1\bin\Debug\net6.0\c#.dz1.runtimeconfig.json
+C:\Users\Viktoriya\Desktop\C#.dz\c#.dz1\bin\Debug\net6.0\c#.dz1.dll
+C:\Users\Viktoriya\Desktop\C#.dz\c#.dz1\bin\Debug\net6.0\c#.dz1.pdb
+C:\Users\Viktoriya\Desktop\C#.dz\c#.dz1\obj\Debug\net6.0\c#.dz1.csproj.AssemblyReference.cache
+C:\Users\Viktoriya\Desktop\C#.dz\c#.dz1\obj\Debug\net6.0\c#.dz1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktoriya\Desktop\C#.dz\c#.dz1\obj\Debug\net6.0\c#.dz1.AssemblyInfoInputs.cache
+C:\Users\Viktoriya\Desktop\C#.dz\c#.dz1\obj\Debug\net6.0\c#.dz1.AssemblyInfo.cs
+C:\Users\Viktoriya\Desktop\C#.dz\c#.dz1\obj\Debug\net6.0\c#.dz1.csproj.CoreCompileInputs.cache
+C:\Users\Viktoriya\Desktop\C#.dz\c#.dz1\obj\Debug\net6.0\c#.dz1.dll
+C:\Users\Viktoriya\Desktop\C#.dz\c#.dz1\obj\Debug\net6.0\refint\c#.dz1.dll
+C:\Users\Viktoriya\Desktop\C#.dz\c#.dz1\obj\Debug\net6.0\c#.dz1.pdb
+C:\Users\Viktoriya\Desktop\C#.dz\c#.dz1\obj\Debug\net6.0\c#.dz1.genruntimeconfig.cache
+C:\Users\Viktoriya\Desktop\C#.dz\c#.dz1\obj\Debug\net6.0\ref\c#.dz1.dll
